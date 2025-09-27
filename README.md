@@ -1,6 +1,6 @@
 ## Hi, Neelima here 👋
 
-- I am a mathematics PhD candidate and quantitaitve finance enthusiast 
+- I am a mathematics PhD candidate and quantitative finance enthusiast 
 - I have been working on some independent incremental 'baby' projects to gain familiarity with quantiative modeling and generating insights from models
 - This Fall I am also working on putting together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled 
 
