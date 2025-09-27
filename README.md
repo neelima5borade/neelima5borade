@@ -1,4 +1,4 @@
-## Hi I'm Neelima 👋
+## Hi, Neelima here 👋
 
 - I am a mathematics PhD candidate and quantitaitve finance enthusiast 
 - I have been working on some independent baby projects to gain familiarity with quantiative modeling and generating insights from models
