@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Neelima a mathematics PhD candidate and quantitaitve finance enthusiast 👋
 
 <!--
 **neelima5borade/neelima5borade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
