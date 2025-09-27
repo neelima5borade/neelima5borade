@@ -1,4 +1,8 @@
-## Hi I'm Neelima a mathematics PhD candidate and quantitaitve finance enthusiast 👋
+## Hi I'm Neelima 👋
+
+- I am a mathematics PhD candidate and quantitaitve finance enthusiast 
+- I have been working on some independent baby projects to gain familiarity with quantiative modeling and generating insights from models
+- This Fall I am also working on putting together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled 
 
 <!--
 **neelima5borade/neelima5borade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
