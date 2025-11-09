@@ -2,7 +2,7 @@
 
 - I am a mathematics PhD candidate and quantitative finance enthusiast 
 - I have been working on some independent incremental 'baby' projects to gain familiarity with quantiative modeling and generating insights from models
-- This Fall I am also working on putting together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled 
+- This Fall I put together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled 
 
 <!--
 **neelima5borade/neelima5borade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
