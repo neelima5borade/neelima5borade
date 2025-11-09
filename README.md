@@ -1,6 +1,6 @@
 ## Hi, Neelima here 👋
 
-- I am a mathematics PhD candidate and quantitative finance enthusiast 
+- I am a mathematics PhD candidate, quantitative finance enthusiast, and aspiring quant researcher.
 - I have been working on independent  projects to gain familiarity with quantiative modeling and generating insights from models
 - This Fall I put together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled, where I compared the performance of GARCH(1,1) and SV (with particle filter) across multiple assets and shock periods. 
 
