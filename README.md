@@ -1,8 +1,8 @@
 ## Hi, Neelima here 👋
 
 - I am a mathematics PhD candidate and quantitative finance enthusiast 
-- I have been working on some independent incremental 'baby' projects to gain familiarity with quantiative modeling and generating insights from models
-- This Fall I put together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled 
+- I have been working on independent  projects to gain familiarity with quantiative modeling and generating insights from models
+- This Fall I put together a final project for the Erdos Institute's Quant Finance Bootcamp in which I am currently enrolled, where I compared the performance of GARCH(1,1) and SV (with particle filter) across multiple assets and shock periods. 
 
 <!--
 **neelima5borade/neelima5borade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
